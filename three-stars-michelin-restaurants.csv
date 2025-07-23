@@ -1,0 +1,26 @@
+name,year,latitude,longitude,city,region,zipCode,cuisine,price,url
+Le Bernardin,2023,40.7614,-73.9776,New York,New York,10019,French,$$$$,https://www.le-bernardin.com
+Eleven Madison Park,2023,40.7409,-73.9871,New York,New York,10010,American,$$$$,https://www.elevenmadisonpark.com
+The French Laundry,2023,38.4037,-122.4869,Yountville,California,94599,French,$$$$,https://www.thomaskeller.com
+Per Se,2023,40.7677,-73.9824,New York,New York,10023,American,$$$$,https://www.perseny.com
+Joel Robuchon,2023,36.1215,-115.1739,Las Vegas,Nevada,89109,French,$$$$,https://www.joel-robuchon.com
+Guy Savoy,2023,36.1215,-115.1739,Las Vegas,Nevada,89109,French,$$$$,https://www.guysavoy.com
+Le Meurice,2023,48.8566,2.3522,Paris,France,75001,French,$$$$,https://www.lemeurice.com
+Epicure,2023,48.8566,2.3522,Paris,France,75008,French,$$$$,https://www.lebristolparis.com
+Arpège,2023,48.8566,2.3522,Paris,France,75007,French,$$$$,https://www.alain-passard.com
+L'Ambroisie,2023,48.8566,2.3522,Paris,France,75004,French,$$$$,https://www.ambroisie-placevosges.com
+Osteria Francescana,2023,44.6478,10.9249,Modena,Italy,41121,Italian,$$$$,https://www.osteriafrancescana.it
+Le Calandre,2023,45.4064,11.8768,Rubano,Italy,35030,Italian,$$$$,https://www.lecalandre.com
+Dal Pescatore,2023,45.1847,10.4641,Canneto sull'Oglio,Italy,46013,Italian,$$$$,https://www.dalpescatore.com
+Villa Crespi,2023,45.8133,8.4207,Orta San Giulio,Italy,28016,Italian,$$$$,https://www.villacrespi.it
+Enoteca Pinchiorri,2023,43.7696,11.2558,Florence,Italy,50121,Italian,$$$$,https://www.enotecapinchiorri.it
+Sukiyabashi Jiro,2023,35.6762,139.6503,Tokyo,Japan,104-0061,Japanese,$$$$,https://www.sushi-jiro.jp
+Kikunoi,2023,35.0116,135.7681,Kyoto,Japan,605-0862,Japanese,$$$$,https://www.kikunoi.jp
+Yoshinao,2023,35.6762,139.6503,Tokyo,Japan,107-0052,Japanese,$$$$,https://www.yoshinao.com
+Kanda,2023,35.6762,139.6503,Tokyo,Japan,101-0021,Japanese,$$$$,https://www.kanda-tokyo.jp
+Narisawa,2023,35.6762,139.6503,Tokyo,Japan,107-0062,Japanese,$$$$,https://www.narisawa-yoshihiro.com
+El Celler de Can Roca,2023,41.9794,2.8214,Girona,Spain,17007,Spanish,$$$$,https://www.cellercanroca.com
+Arzak,2023,43.3183,-1.9812,San Sebastian,Spain,20015,Spanish,$$$$,https://www.arzak.es
+Martín Berasategui,2023,43.2630,-2.0166,Lasarte-Oria,Spain,20160,Spanish,$$$$,https://www.martinberasategui.com
+Azurmendi,2023,43.2630,-2.0166,Larrabetzu,Spain,48195,Spanish,$$$$,https://www.azurmendi.restaurant
+Akelarre,2023,43.3183,-1.9812,San Sebastian,Spain,20008,Spanish,$$$$,https://www.akelarre.net

@@ -1,0 +1,26 @@
+name,year,latitude,longitude,city,region,zipCode,cuisine,price,url
+Joël Robuchon,2023,40.7589,-73.9851,New York,New York,10022,French,$$$$,https://www.joel-robuchon.com
+Daniel,2023,40.7614,-73.9776,New York,New York,10065,French,$$$$,https://www.danielnyc.com
+Jean-Georges,2023,40.7677,-73.9824,New York,New York,10023,French,$$$$,https://www.jean-georgesrestaurant.com
+Masa,2023,40.7677,-73.9824,New York,New York,10023,Japanese,$$$$,https://www.masanyc.com
+Chef's Table at Brooklyn Fare,2023,40.6782,-73.9442,Brooklyn,New York,11201,American,$$$$,https://www.brooklynfare.com
+Atelier Crenn,2023,37.7749,-122.4194,San Francisco,California,94115,French,$$$$,https://www.ateliercrenn.com
+Benu,2023,37.7749,-122.4194,San Francisco,California,94105,Asian,$$$$,https://www.benusf.com
+Manresa,2023,37.2431,-121.9944,Los Gatos,California,95030,Californian,$$$$,https://www.manresarestaurant.com
+Saison,2023,37.7749,-122.4194,San Francisco,California,94103,Californian,$$$$,https://www.saisonsf.com
+Grace,2023,41.8781,-87.6298,Chicago,Illinois,60654,American,$$$$,https://www.grace-restaurant.com
+L'Ambroisie,2023,48.8566,2.3522,Paris,France,75004,French,$$$$,https://www.ambroisie-placevosges.com
+Pierre Gagnaire,2023,48.8566,2.3522,Paris,France,75008,French,$$$$,https://www.pierre-gagnaire.com
+L'Astrance,2023,48.8566,2.3522,Paris,France,75016,French,$$$$,https://www.astrancerestaurant.com
+Guy Savoy,2023,48.8566,2.3522,Paris,France,75006,French,$$$$,https://www.guysavoy.com
+Alain Ducasse au Plaza Athénée,2023,48.8566,2.3522,Paris,France,75008,French,$$$$,https://www.alain-ducasse.com
+Sukiyabashi Jiro,2023,35.6762,139.6503,Tokyo,Japan,104-0061,Japanese,$$$$,https://www.sushi-jiro.jp
+Kanda,2023,35.6762,139.6503,Tokyo,Japan,101-0021,Japanese,$$$$,https://www.kanda-tokyo.jp
+Kikunoi,2023,35.0116,135.7681,Kyoto,Japan,605-0862,Japanese,$$$$,https://www.kikunoi.jp
+Yoshinao,2023,35.6762,139.6503,Tokyo,Japan,107-0052,Japanese,$$$$,https://www.yoshinao.com
+Nihonryori RyuGin,2023,35.6762,139.6503,Tokyo,Japan,106-0032,Japanese,$$$$,https://www.nihonryori-ryugin.com
+El Celler de Can Roca,2023,41.9794,2.8214,Girona,Spain,17007,Spanish,$$$$,https://www.cellercanroca.com
+Mugaritz,2023,43.2630,-2.0166,Errenteria,Spain,20100,Spanish,$$$$,https://www.mugaritz.com
+Azurmendi,2023,43.2630,-2.0166,Larrabetzu,Spain,48195,Spanish,$$$$,https://www.azurmendi.restaurant
+Martín Berasategui,2023,43.2630,-2.0166,Lasarte-Oria,Spain,20160,Spanish,$$$$,https://www.martinberasategui.com
+Quique Dacosta,2023,38.8339,-0.0177,Dénia,Spain,3700,Spanish,$$$$,https://www.quiquedacosta.es

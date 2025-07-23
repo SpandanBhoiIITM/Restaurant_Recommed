@@ -1,0 +1,26 @@
+name,year,latitude,longitude,city,region,zipCode,cuisine,price,url
+Le Bernardin,2023,40.7614,-73.9776,New York,New York,10019,French,$$$$,https://www.le-bernardin.com
+Eleven Madison Park,2023,40.7409,-73.9871,New York,New York,10010,American,$$$$,https://www.elevenmadisonpark.com
+The French Laundry,2023,38.4037,-122.4869,Yountville,California,94599,French,$$$$,https://www.thomaskeller.com
+Alinea,2023,41.9249,-87.6515,Chicago,Illinois,60614,American,$$$$,https://www.alinearestaurant.com
+Per Se,2023,40.7677,-73.9824,New York,New York,10023,American,$$$$,https://www.perseny.com
+Osteria Francescana,2023,44.6478,10.9249,Modena,Italy,41121,Italian,$$$$,https://www.osteriafrancescana.it
+Noma,2023,55.6761,12.5683,Copenhagen,Denmark,1401,Nordic,$$$$,https://www.noma.dk
+El Celler de Can Roca,2023,41.9794,2.8214,Girona,Spain,17007,Spanish,$$$$,https://www.cellercanroca.com
+Gaggan,2023,13.7563,100.5018,Bangkok,Thailand,10330,Indian,$$$$,https://www.gaggan.in
+Central,2023,-12.0464,-77.0428,Lima,Peru,15074,Peruvian,$$$,https://www.centralrestaurante.com.pe
+Mirazur,2023,43.7102,7.4914,Menton,France,6500,French,$$$$,https://www.mirazur.fr
+Asador Etxebarri,2023,43.3126,-2.6189,Axpe,Spain,48291,Spanish,$$$$,https://www.asadoretxebarri.com
+Blue Hill at Stone Barns,2023,41.0983,-73.8370,Pocantico Hills,New York,10591,American,$$$,https://www.bluehillfarm.com
+Quintonil,2023,19.4326,-99.1332,Mexico City,Mexico,11000,Mexican,$$$,https://www.quintonil.com
+White Rabbit,2023,55.7558,37.6176,Moscow,Russia,125009,Russian,$$$,https://www.whiterabbit.restaurant
+Den,2023,35.6762,139.6503,Tokyo,Japan,106-0032,Japanese,$$$$,https://www.den-tokyo.com
+Narisawa,2023,35.6762,139.6503,Tokyo,Japan,107-0062,Japanese,$$$$,https://www.narisawa-yoshihiro.com
+Disfrutar,2023,41.3851,2.1734,Barcelona,Spain,8018,Spanish,$$$,https://www.disfrutarbarcelona.com
+Frantzén,2023,59.3293,18.0686,Stockholm,Sweden,11146,Swedish,$$$$,https://www.frantzen.com
+Maido,2023,-12.0464,-77.0428,Lima,Peru,15074,Japanese-Peruvian,$$$,https://www.maido.pe
+Odette,2023,1.2966,103.8547,Singapore,Singapore,178957,French,$$$$,https://www.odetterestaurant.com
+Alchemist,2023,55.6761,12.5683,Copenhagen,Denmark,2100,Nordic,$$$$,https://www.restaurant-alchemist.dk
+Geranium,2023,55.6761,12.5683,Copenhagen,Denmark,2100,Nordic,$$$$,https://www.geranium.dk
+Cosme,2023,40.7282,-73.9942,New York,New York,10010,Mexican,$$$,https://www.cosmenyc.com
+Arzak,2023,43.3183,-1.9812,San Sebastian,Spain,20015,Spanish,$$$$,https://www.arzak.es
